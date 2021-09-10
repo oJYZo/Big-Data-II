@@ -1,5 +1,5 @@
 # Predictive Analytics
-This repository contains all my healthcare data analytics and data mining projects.
+This repository contains all my data & analytics application course related projects.
 
 Topics include:
 
