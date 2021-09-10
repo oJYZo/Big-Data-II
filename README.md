@@ -13,5 +13,5 @@ Case Studies with Classification, Regression, and Triage
 
 - 3  
 
-Group Project Using Classification models with Mushroom Dataset
+A Group Project Using Classification models with Mushroom Dataset
 
