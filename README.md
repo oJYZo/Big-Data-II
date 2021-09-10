@@ -1,17 +1,17 @@
-# Predictive Modelings
+# Predictive Analytics
 This repository contains all my healthcare data analytics and data mining projects.
 
 Topics include:
 
 - 1  
 
-A Case Study Using Predictive Analytics for Iris and Bike Sharing Datasets
+A Case Study for Iris and Bike Sharing Datasets
 
 - 2  
 
-Case Studies Using Predictive Analytics with Classification, Regression, and Triage
+Case Studies with Classification, Regression, and Triage
 
 - 3  
 
-Group Project Using Predictive Analytics with Mushroom Classification
+Group Project Using Classification models with Mushroom Dataset
 
